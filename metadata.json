@@ -1,0 +1,6 @@
+{
+  "name": "Bright Career Academy",
+  "description": "Comprehensive Job Consultancy, Vocational Training, Technical Education and Placements Portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
